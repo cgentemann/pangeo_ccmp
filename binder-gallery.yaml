@@ -1,9 +1,8 @@
 ---
-name: Example Gallery
+name: CCMP Winds Gallery
 description: >-
-  An example gallery of notebooks used for debugging the Pangeo Gallery
-  infrastructure.
-gallery_repository: pangeo-gallery/pangeo-gallery
+  An gallery of notebooks used for accessing CCMP wind data.
+gallery_repository: pangeo-gallery/pangeo_ccmp
 binder_url: "https://binder.pangeo.io"
 binder_repo: pangeo-gallery/default-binder
 binder_ref: master
