@@ -1,0 +1,9 @@
+---
+name: NASA CCMP Winds Gallery
+description: >-
+  A notebook accessing CCMP wind data in Zarr format.
+gallery_repository: pangeo-gallery/pangeo-gallery
+binder_url: "https://binder.pangeo.io"
+binder_repo: pangeo-gallery/default-binder
+binder_ref: master
+binderbot_target_branch: binderbot-built
